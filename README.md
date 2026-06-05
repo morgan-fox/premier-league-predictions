@@ -31,7 +31,7 @@ This project applies machine learning techniques to predict outcomes for the 202
 ```
 
 ## Setup 
-- Clone Repository using git clone https://github.com/morgan-fox/cmse492_project.git and cd cmse492_project
+- Clone the repository using `git clone https://github.com/morgan-fox/premier-league-predictions.git` and navigate to the project directory with `cd premier-league-predictions`.
 - Install nececssary dependencies using pip install -r requirements.txt
 - Download the Premier_League.csv dataset located in the data folder
 
