@@ -40,6 +40,9 @@ Required Libraries:
 
 
 ## Updated Results 
+
+[View Full Project Presentation](./Premier_League_Predictions_Presentation.pdf)
+
 Best performing model:
 - XGBoost
 
