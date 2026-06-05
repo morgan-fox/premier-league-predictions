@@ -14,7 +14,9 @@ This project will incorperate machine learning techniques to predict the outcome
 ## Project Structure
 ```plaintext
 ├── data/                     
-│   └── Premier_League.csv    
+│   └── Premier_League.csv
+├──docs/
+    └── Premier_League_Machine_Learning_Predictions.pdf
 ├── notebooks/                
 ├── src/                      
 │   ├── data_preprocessing.py
@@ -41,7 +43,7 @@ Required Libraries:
 
 ## Updated Results 
 
-[View Full Project Presentation](./Premier_League_Predictions_Presentation.pdf)
+[View Full Project Presentation](docs/Premier_League_Machine_Learning_Predictions.pdf)
 
 Best performing model:
 - XGBoost
